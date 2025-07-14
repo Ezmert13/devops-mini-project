@@ -13,4 +13,4 @@ def test_multiply():
 
 
 def test_divide():
-    assert divide(2, 4) == 2
+    assert divide(4, 2) == 2
